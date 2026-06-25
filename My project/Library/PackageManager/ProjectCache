@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639177698691820268
-    m_Hash: 1515549601
+      ticks: 639179620647365434
+    m_Hash: 1150746740
   m_LockFileStatus:
     m_FilePath: D:/Repositorio EBAC/Repositorio Unity EBAC/My project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639177698813291658
-    m_Hash: 2671941888
+      ticks: 639179620647365434
+    m_Hash: 3300684578
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
