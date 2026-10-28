@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0eda1f57df3d3e74abc06d6771c2be61
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Comic Relief
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c8e30f6e4e497be42a38afb5a3ca7f85, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
